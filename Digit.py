@@ -12,7 +12,7 @@ def digitAkhir(a,b):#fungsi digunakan untuk mengambil nilai paling akhir
 print(digitAwal(10,8)) # mencetak hasil dari fungsi digit awal dengan 2 argumen
 print(digitAwal(2,3))
 print(digitAwal(6,3))
-
+print('') #hanya sebagai enter untuk menampilkan output lebih rapi
 print(digitAkhir(10,8)) # mencetak hasil dari fungsi digit akhir dengan 2 argumen
 print(digitAkhir(2,3))
 print(digitAkhir(6,3))
